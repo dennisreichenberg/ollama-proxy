@@ -45,8 +45,8 @@ dev = [
 ollama-proxy = "ollama_proxy.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/dennisreichenberg/weiterentwicklung"
-Repository = "https://github.com/dennisreichenberg/weiterentwicklung"
+Homepage = "https://github.com/dennisreichenberg/ollama-proxy"
+Repository = "https://github.com/dennisreichenberg/ollama-proxy"
 
 [tool.setuptools.packages.find]
 where = ["src"]
